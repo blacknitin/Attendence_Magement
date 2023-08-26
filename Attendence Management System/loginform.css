@@ -1,0 +1,25 @@
+  .container {
+    margin-top: auto;
+  }
+  .container:hover{
+    opacity: 0.9;
+  }
+  .form-group label {
+  font-weight: bold;
+}
+
+.form-control {
+  margin-bottom: 10px;}
+
+  .form-group label {
+    font-weight: bold;
+}
+
+.form-control {
+    margin-bottom: 10px;}
+footer{
+  background-color:rgb(58, 57, 57);
+  color: white;
+  text-align:left;
+  font-weight: bold;
+}
